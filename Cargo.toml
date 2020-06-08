@@ -1,0 +1,10 @@
+[package]
+
+name = "learn_rust"
+version = "0.0.1"
+edition = "2018"
+authors = [ "Your name <you@example.com>" ]
+
+[dependencies]
+actix-web = "2.0"
+actix-rt = "1.0"
