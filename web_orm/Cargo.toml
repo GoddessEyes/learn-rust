@@ -8,3 +8,5 @@ authors = [ "Your name <you@example.com>" ]
 [dependencies]
 actix-web = "2.0"
 actix-rt = "1.0"
+diesel = { version = "1.4.4", features = ["postgres"] }
+dotenv = "0.15.0"
